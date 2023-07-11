@@ -1,5 +1,6 @@
 import { NavBar } from "@/components"
 import "./globals.css"
+// ss
 interface RootLayout {
         children : React.ReactNode
 }
